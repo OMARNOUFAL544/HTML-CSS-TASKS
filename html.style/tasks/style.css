@@ -1,0 +1,329 @@
+/*   task 2
+body{
+    font-size: 18px;
+}
+.external-style{
+    color: purple;
+    font-family: cursive;
+    font-style: italic;
+    font-size: 25px;
+}
+*/
+/*  task 4
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+  }
+  
+  
+  .header {
+    background-color: #003055;
+    color: white;
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .header h1 {
+    margin: 0;
+    font-size: 3em;
+  }
+  
+  .header p {
+    font-size: 1.2em;
+    margin-top: 10px;
+  }
+  
+  
+  .content {
+    
+    text-decoration: underline;
+    padding: 20px;
+    text-align: left;
+
+  }
+  
+  .content h2 {
+    text-decoration: underline;
+    font-size: 2.5em;
+    color: #e20000;
+  }
+  
+  .content p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    
+  }
+  
+  .content .strikethrough {
+    text-decoration: line-through;
+  }
+  
+  .content .bold {
+    font-weight: bold;
+  }
+  
+  .content .capitalize {
+    text-transform: capitalize;
+  }
+  
+  
+  .footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .footer a {
+    color: #840000;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .footer a:hover {
+    text-decoration: underline;
+  }
+    *//*
+  
+  /* task 6
+  body {
+    
+      background-image: url("../tasks/Screenshot_8-12-2024_221512_lms.orangecodingacademy.com.jpeg");
+      background-repeat: repeat-y;
+      background-size: 20%;
+  
+  }
+
+     task 7  *
+body{
+  background-image: url('https://img.freepik.com/free-vector/seamless-doodle-pattern-with-pizza-slices-drinks_1284-52772.jpg');
+  background-repeat: repeat;
+  background-size: 100px;
+}
+.text{
+  color: red;
+  text-decoration: underline;
+  background-color: rgb(255, 255, 255);
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 700;
+}
+.text2{
+  background-color: white;
+  font-size: 17px;
+
+}
+.bold{
+  font-weight: bold;
+  color: rgb(68, 187, 147);
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+* task 8 *
+body{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  line-height: 1.5;
+  color: white;
+
+}
+.text2{
+  background: -moz-radial-gradient(red);
+  font-size: 17px;
+  background: linear-gradient(to right, #b1204f 50%, #e65256 50%);
+
+}
+.text1{
+  color: red;
+  text-decoration: underline;
+  background-color: rgb(255, 255, 255);
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 700;
+
+}
+.bold{
+  font-weight: bold;
+  color: rgb(68, 187, 147);
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+* task 9 *
+body {
+  background: linear-gradient(to right, #a86aa4, #cc6b8e, #f3a469, #f7c978 );
+}
+.mrp{
+  text-align: center;
+  margin-top: 90px;
+  font-size: 30px;
+}
+
+* task 10 *
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.it1{
+  background-color: #00bfff;
+  color: white;
+  padding: 5px;
+ 
+
+}
+.it2{
+  background-color: #fa77b7;
+  color: white;
+  padding: 5px;
+}
+.it3{
+  background-color: #fba405;
+  color: white;
+  padding: 5px;
+}
+* task 11 *
+body{
+  margin: 0;
+  padding: 0;
+}
+.frame{
+  
+  background-color:#ffe4b5;
+  top: 50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+  position: absolute;
+  border: 1pt solid black;
+ 
+
+
+}
+form{
+  margin: 35px;
+
+}
+h2{
+  text-align: center;
+  margin-top: 10px;
+  color: white;
+  background-color:#cd5c5c ;
+  font-family: cursive;
+  display: inline-block;
+  
+}
+.input1{
+  border: 0cap;
+  font-size: 10px;
+  width: 100%;
+}
+.submit{
+  background-color: #ffd700;
+  text-align: center;
+  width: 100%;
+}
+
+* task 12 *
+
+.content{
+    
+  grid-column: span 2;
+  text-align: center;
+  background-color: rgb(251, 252, 173);
+ font-weight: bold;
+  color: red;
+}
+td{
+  background-color: #00ccff;
+  font-size: 12px;
+}
+* task 13 *
+body {
+    
+  height: 100vh;
+  background: 
+      url('Screenshot_14-12-2024_185437_github.com.jpeg') repeat-y , 
+      url('Screenshot_14-12-2024_185455_github.com.jpeg')repeat-x;
+      
+  background-size: 20% auto, auto 20%;
+}
+* task 14 *
+body{
+  background-color: #ffffcc;
+}
+p{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 2;
+  font-size: 13px;
+}
+li{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+  color: brown;
+}
+.mark1{
+  background-color: aqua;
+}
+.mark2{
+  background-color: #ff00ff;
+}
+.mark3{
+  background-color: red;
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  /* task 10
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.it1{
+    background-color: #00bfff;
+    color: white;
+    padding: 5px;
+
+
+}
+.it2{
+    background-color: #fa77b7;
+    color: white;
+    padding: 5px;
+}
+.it3{
+    background-color: #fba405;
+    color: white;
+    padding: 5px;
+}
+    */
